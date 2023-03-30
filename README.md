@@ -1,1 +1,1 @@
-# workout-calendar-app
+# workout-calendar-app-frontend
